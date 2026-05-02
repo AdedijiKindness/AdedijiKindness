@@ -1,4 +1,3 @@
 <div align="center">
-  <p>Profile Views</p>
-  <img src="https://u8views.com/api/v1/github/profiles/AdedijiKindness/views/day-image" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdedijiKindness&show_icons=true&theme=radical" alt="My GitHub Stats" />
 </div>
