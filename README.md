@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdedijiKindness&style=flat-square&label=VISITORS&color=000000" />
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=AdedijiKindness&color=green" alt="Views" />
 </div>
