@@ -9,4 +9,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Kindness+Adediji!;" alt="Typing SVG" />
 </p>
+### A Backend Developer, Passionate about building powerful API's and working with database.
 </div>
