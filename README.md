@@ -47,4 +47,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AdedijiKindness&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kindness's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AdedijiKindness&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Kindness's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=AdedijiKindness&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Kindness's Most Used Languages" />
 </div>
+
+<hr>
+</div>
+
