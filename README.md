@@ -6,7 +6,7 @@
   <!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Kindness+Adediji!;" />
 </h1> -->
-<h2 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Kindness+Adediji!;" alt="Typing SVG" />
-</h2>
+</p>
 </div>
