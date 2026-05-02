@@ -34,4 +34,17 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,py,django" />
+</p>
+
+<h3 align="center">Frontend & Styling</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
 </div>
